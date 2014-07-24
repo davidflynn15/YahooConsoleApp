@@ -1,0 +1,16 @@
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\YahooConsoleApp.exe.config
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\YahooConsoleApp.exe
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\YahooConsoleApp.pdb
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Web.Http.dll
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Web.Http.xml
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\obj\Debug\YahooConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\obj\Debug\YahooConsoleApp.exe
+c:\users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\obj\Debug\YahooConsoleApp.pdb
+C:\Users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\Data\investments.json
+C:\Users\flynn_000\documents\visual studio 2013\Projects\YahooConsoleApp\YahooConsoleApp\bin\Debug\Data\watchList.json
